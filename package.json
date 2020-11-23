@@ -2,7 +2,7 @@
   "name": "corona_tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thecodeheist.github.io/covid19",
+  "homepage": "https://thecodeheist.github.io/JS-Corona-Tracker",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
